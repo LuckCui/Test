@@ -41,6 +41,9 @@
     [self setUpCJZPageView];
     [self setUpScrollView];
     NSLog(@"ddddddd");
+    NSLog(@"ddddddd");
+    NSLog(@"ddddddd");
+    NSLog(@"2222222");
 }
 
 - (void)setUpScrollView {
