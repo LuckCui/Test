@@ -28,8 +28,9 @@
 @property (nonatomic, strong) CJZPageView *pageView;
 @property (nonatomic, strong) UIView *diXian;
 
+//
 @property (nonatomic, assign) UITableView *tab;
-
+@property (nonatomic, assign) NSInteger NUM;
 
 @end
 
