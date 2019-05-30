@@ -43,7 +43,7 @@
     NSLog(@"ddddddd");
     NSLog(@"ddddddd");
     NSLog(@"ddddddd");
-    NSLog(@"2222222");
+    NSLog(@"333");
 }
 
 - (void)setUpScrollView {
